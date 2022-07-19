@@ -1,0 +1,11 @@
+.pop_up{
+    padding:20px;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    color:blue;
+    background-color: white;
+    border-radius: 9px;
+    text-align: center;
+}
